@@ -5,7 +5,7 @@
     "env": {
         "CLIENT_DATA": {
             "description": "V2ray WebSocket Config",
-            "value": "{"id": "ad806487-2d26-4636-98b6-ab85cc8521f7", "alertId": 64}"
+            "value": "{\"id\": \"ad806487-2d26-4636-98b6-ab85cc8521f7\", \"alertId\": 64}"
         }
     },
     "website": "https://ibcl.us/Heroku-V2Ray_20191014/",
